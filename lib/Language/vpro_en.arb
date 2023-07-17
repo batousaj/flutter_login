@@ -1,0 +1,13 @@
+{
+    "app_name" : "VPRO",
+    "id_login" : "Login",
+    "id_account" : "Account",
+    "id_rememberAccount" : "Remember account",
+    "id_password" : "Password",
+    "id_userName" : "Username",
+    "id_system" : "System",
+    "id_language" : "Language",
+    "id_theme" : "Theme",
+    "id_vietnamese" : "Vietnamese",
+    "id_english" : "English"
+}

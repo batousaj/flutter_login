@@ -1,0 +1,13 @@
+{
+    "app_name" : "VPRO",
+    "id_login" : "Đăng nhập",
+    "id_account" : "Tài khoản",
+    "id_rememberAccount" : "Ghi nhớ tài khoản",
+    "id_password" : "Mật khẩu",
+    "id_userName" : "Tài khoản",
+    "id_system" : "Hệ thống",
+    "id_language" : "Ngôn ngữ",
+    "id_theme" : "Giao diện",
+    "id_vietnamese" : "Tiếng Việt",
+    "id_english" : "Tiếng Anh"
+}
